@@ -1,6 +1,9 @@
 Problema: ordinare una pizza
 
 1.prendo il telefono
+apro il menu
+leggo il menu
+scelgo la mia solita pizza
 2.cerco il numero della pizzeria
 3.telefono alla pizzeria
 4.ordino una pizza prosciutto e funghi
@@ -18,7 +21,7 @@ Problema: ordinare una pizza
 15.:altrimenti taglio la pizza
 16.mangio la pizza
 17.?se avanzo una fetta
-    17.1   apro la credenza
+    17.1 apro la credenza
     17.2 prendo un piatto
     17.3 metto la fetta nel piatto
     17.4 vado al frigo col piatto
